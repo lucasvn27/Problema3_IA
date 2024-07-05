@@ -11,15 +11,8 @@ O algoritmo Minimax é uma técnica de busca em árvore utilizada em jogos de de
 ## Como Jogar
 
 Para jogar o Tic-Tac-Toe:
-- Execute o programa Java, seguindo as instruções específicas para compilar e iniciar o jogo.
 - Você jogará contra o computador, que utiliza o algoritmo Minimax com Alpha-Beta Pruning para fazer seus movimentos.
 - O jogo termina quando um jogador vence, ou quando ocorre um empate.
-
-## Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
-- **src/:** Contém o código fonte Java do projeto, incluindo a implementação do jogo e o algoritmo Minimax com Alpha-Beta Pruning.
-- **README.md:** Este arquivo, contendo informações sobre o projeto, instruções de uso e estrutura do repositório.
 
 ## Tecnologias Utilizadas
 
@@ -29,7 +22,3 @@ O repositório está organizado da seguinte forma:
 ## Como Contribuir
 
 Sinta-se à vontade para explorar, bifurcar (fork) e contribuir para este projeto se desejar. Qualquer contribuição é bem-vinda!
-
----
-
-Espero que este README forneça uma visão clara do seu projeto de Tic-Tac-Toe com Inteligência Artificial usando Java e o algoritmo Minimax com Alpha-Beta Pruning. Você pode personalizar ainda mais conforme necessário para atender às especificidades do seu projeto no GitHub.
